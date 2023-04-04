@@ -17,4 +17,8 @@ How to use,
 
 5. Click save and click bookmark and panel should appear
 
+made by flowings, star the repo if it helped you, discord server soon.
+
+jmenu sucks 💀
+
 
