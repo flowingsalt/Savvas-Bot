@@ -6,15 +6,15 @@ How to use,
 1. Make a new bookmark on Savvas
 
 
-3. Ctrl + B To show bookmarks
+2. Ctrl + B To show bookmarks
 
 
-5. Right click the bookmark you made and click "Edit"
+3. Right click the bookmark you made and click "Edit"
 
 
-7. Change the URL to the contents of bookmark.js
+4. Change the URL to the contents of bookmark.js
 
 
-9. Click save and click bookmark and panel should appear
+5. Click save and click bookmark and panel should appear
 
 
