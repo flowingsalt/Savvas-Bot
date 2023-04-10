@@ -1,6 +1,11 @@
 # Savvas-Bot
 The best Savvas Answer hack, (Doesn't work for MathXL lessons)
 
+made by flowings and darryl mahoney
+
+https://discord.gg/lunicious
+
+
 How to use,
 
 1. Make a new bookmark on Savvas
